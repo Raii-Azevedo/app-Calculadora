@@ -1,4 +1,4 @@
-![Calculadora]()
+![Calculadora](https://github.com/Raii-Azevedo/app-Calculadora/blob/master/Calculadora.gif)
  
 ## Calculadora
  - Aplicativo Web de calculadora, desenvolvido com HTML, CSS e JavaScript.
